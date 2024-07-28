@@ -12,7 +12,7 @@ unsetopt PROMPT_SP 2>/dev/null
 export EDITOR="nvim"
 export TERMINAL="st"
 export TERMINAL_PROG="st"
-export BROWSER="librewolf"
+export BROWSER="chromium-browser"
 
 # Change the default crypto/weather monitor sites.
 # export CRYPTOURL="rate.sx"
@@ -71,3 +71,4 @@ export _JAVA_AWT_WM_NONREPARENTING=1      # Fix for Java applications in dwm
 
 # Switch escape and caps if tty and no passwd required:
 sudo -n loadkeys "$XDG_DATA_HOME/larbs/ttymaps.kmap" 2>/dev/null
+neofetch
