@@ -20,6 +20,7 @@ se() {
 
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
+   l="ls -cFlah"
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -vI" \
@@ -48,7 +49,7 @@ alias \
 	sdn="shutdown -h now" \
 	e="$EDITOR" \
 	v="$EDITOR" \
-	p="pacman" \
+	a"sudo apt install" \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
