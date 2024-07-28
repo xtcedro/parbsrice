@@ -1,7 +1,6 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The XARBSrice (Xtcedro <https://www.github.com/xtcedro>'s dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
-[my YouTube channel](https://youtube.com/c/lukesmithxyz).
+These are the dotfiles deployed by [XARBS](https://www.github.com/xtcedro/XARBS)
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -23,9 +22,9 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+- [dwm](https://git.suckless.org/dwm) (window manager)
+- [dwmblocks](https://git.suckless.org/dwmblocks) (statusbar)
+- [st](https://git.suckless.org/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
@@ -35,7 +34,7 @@ as well.
 
 ## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
+Use [XARBS](https://www.github.com/xtcedro/XARBS) to autoinstall everything:
 
 ```
 curl -LO larbs.xyz/larbs.sh
