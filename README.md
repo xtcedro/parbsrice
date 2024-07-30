@@ -1,6 +1,6 @@
-# The XARBSrice (Xtcedro <https://www.github.com/xtcedro>'s dotfiles)
+# The PARBSrice. [Pedro's](https://www.github.com/xtcedro) dotfiles.
 
-These are the dotfiles deployed by [XARBS](https://www.github.com/xtcedro/XARBS)
+These are the dotfiles deployed by [PARBS](https://www.github.com/xtcedro/PARBS)
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -22,9 +22,9 @@ These are the dotfiles deployed by [XARBS](https://www.github.com/xtcedro/XARBS)
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://git.suckless.org/dwm) (window manager)
-- [dmenu](https://git.suckless.org/dmenu) (statusbar)
-- [st](https://git.suckless.org/st) (terminal emulator)
+- [dwm](https://www.github.com/xtcedro/dwm) (window manager)
+- [dwmblocks](https://www.github.com/xtcedro/dwmblocks) (statusbar)
+- [st](https://www.github.com/xtcedro/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
@@ -41,7 +41,7 @@ curl -LO larbs.xyz/larbs.sh
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/static/progs.csv).
+[dependencies](https://github.com/xtcedro/PARBS/blob/master/static/progs.csv).
 
 ## Default Desktop Artwork
 
