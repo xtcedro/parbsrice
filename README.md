@@ -23,7 +23,7 @@ These are the dotfiles deployed by [XARBS](https://www.github.com/xtcedro/XARBS)
 These dotfiles are intended to go with numerous suckless programs I use:
 
 - [dwm](https://git.suckless.org/dwm) (window manager)
-- [dwmblocks](https://git.suckless.org/dwmblocks) (statusbar)
+- [dmenu](https://git.suckless.org/dmenu) (statusbar)
 - [st](https://git.suckless.org/st) (terminal emulator)
 
 I also recommend trying out
