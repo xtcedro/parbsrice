@@ -22,9 +22,15 @@ These are the dotfiles deployed by [PARBS](https://www.github.com/xtcedro/PARBS)
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
+<<<<<<< HEAD
+- [dwm](https://git.suckless.org/dwm) (window manager)
+-[dwmblock](https://git.suckless.org/dwmblocks) (statusbar)
+- [st](https://git.suckless.org/st) (terminal emulator)
+=======
 - [dwm](https://www.github.com/xtcedro/dwm) (window manager)
 - [dwmblocks](https://www.github.com/xtcedro/dwmblocks) (statusbar)
 - [st](https://www.github.com/xtcedro/st) (terminal emulator)
+>>>>>>> 0e4f3c7e9955bbaf9a96bf143590c68b733f457b
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
