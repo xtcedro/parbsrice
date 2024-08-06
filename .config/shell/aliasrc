@@ -50,7 +50,7 @@ alias \
 	e="$EDITOR" \
 	v="$EDITOR" \
 	a="apt install" \
-upg="apt update -yy && apt dist-upgrade -yy && apt full-upgrade -yy " \
+   upg="apt update -yy && apt dist-upgrade -yy && apt full-upgrade -yy " \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
